@@ -1,5 +1,5 @@
 # DataMiningTugas3
-Ini merupakan jawaban dari Tugas 3 Data Mining
+Proses:
 
 Tool yang dipakai pada proses ini mengunakan Jupyter Notebook untuk script dan WEKA untuk mengubah file csv menjadi Arff.
 1.	Proses Data WBDC.
