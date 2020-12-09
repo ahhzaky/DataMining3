@@ -1,4 +1,4 @@
-# DataMiningTugas3
+# DataMining3
 Proses:
 
 Tool yang dipakai pada proses ini mengunakan Jupyter Notebook untuk script dan WEKA untuk mengubah file csv menjadi Arff.
